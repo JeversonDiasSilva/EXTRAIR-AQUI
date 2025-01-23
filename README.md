@@ -3,7 +3,7 @@ Sistema vai permitir extrair 9 extensões diferentes usando o botão direito do 
 
 <br>
 
-![](./img/extrair.jpg)
+![](./img/extrair.png)
 
 
 <br>
