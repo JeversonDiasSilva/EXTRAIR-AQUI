@@ -10,6 +10,8 @@ cd EXTRAIR
 mkdir -p "/userdata/system/.local/share"
 mkdir -p "/userdata/system/.config"
 mkdir -p "/userdata/system/.dev/scripts"
+rm "/userdata/system/.config/mimeapps.list"
+rm -r "/userdata/system/.local/share/applications"
 
 mv extrair "/userdata/system/.dev/scripts"
 mv python3 "/userdata/system/.dev/scripts"
