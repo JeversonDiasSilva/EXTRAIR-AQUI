@@ -10,7 +10,7 @@ Sistema vai permitir extrair 9 extensões diferentes usando o botão direito do 
 
 
 # COMO INSTALAR
-
+<h2>Copia o comando a baixo e colar no terminal do batocera (Shift+Insert)</h2>
 <br>
 
 ```bash
