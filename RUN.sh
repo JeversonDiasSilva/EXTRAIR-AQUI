@@ -1,7 +1,7 @@
 #!/bin/bash
 mkdir -p "/userdata/system/.dev/apps"
 cd "/userdata/system/.dev/apps"
-# curl -L???
+curl -L -o /userdata/system/.dev/apps/SYS.1.0 https://github.com/JeversonDiasSilva/EXTRAIR-AQUI/releases/download/v1.0/SYS.1.0
 unsquashfs -d EXTRAIR SYS
 find EXTRAIR -type f -exec chmod +x {} \;
 cd EXTRAIR
